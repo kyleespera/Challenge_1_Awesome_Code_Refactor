@@ -1,4 +1,4 @@
-# challenge_1_fix_website
+# Challenge_1_Awesome_Code_Refactor
 ## Description
 The job was to improve the code of the current webpage for 'Horiseon Social Solution Services, Inc.' to make it usable by completing the following: 
     
