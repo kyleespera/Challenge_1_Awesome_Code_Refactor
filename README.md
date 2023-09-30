@@ -26,3 +26,7 @@ The job was to improve the code of the current webpage for 'Horiseon Social Solu
     THEN they fall in sequential order
     WHEN I view the title element
     THEN I find a concise, descriptive title
+
+## Links
+https://github.com/kyleespera/Challenge_1_Awesome_Code_Refactor
+https://kyleespera.github.io/Challenge_1_Awesome_Code_Refactor/
